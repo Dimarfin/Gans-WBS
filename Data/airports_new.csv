@@ -1,0 +1,4 @@
+city_id,lat,lon,icao,iata,name
+2950159,52.5597,13.287699,EDDT,TXL,"Berlin, Berlin-Tegel"
+2950159,52.35139,13.493889,EDDB,BER,"Berlin, Berlin Brandenburg"
+2950159,52.20361,13.156389,EDAZ,QXH,"Trebbin, Schönhagen"
