@@ -1,8 +1,6 @@
 # Gans_WBS
 Data Engineering: Pipelines on the Cloud (API, MySQL, AWS)
 
-## 0 Test section
-
 ## 1 Project description
 
 It is a training project done withing a Data Science Boot Camp at the WBS Coding School [https://www.wbscodingschool.com/](https://www.wbscodingschool.com/)
